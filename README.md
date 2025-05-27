@@ -1,5 +1,5 @@
 # clase09
 
-## Soy un nazi
+## DJANGO Y GITHUB
 
-##Te quiero mucho broo
+[Linkedin]
